@@ -1,6 +1,6 @@
 module github.com/bnb-chain/tss
 
-go 1.12
+go 2.6
 
 require (
 	github.com/bgentry/speakeasy v0.1.0
